@@ -1,0 +1,8 @@
+# CloudTrail Setup
+
+- Enabled CloudTrail for all regions
+- Configured to log management events
+- Output directed to S3 bucket
+
+## Purpose
+Capture all AWS API activity for security monitoring.
