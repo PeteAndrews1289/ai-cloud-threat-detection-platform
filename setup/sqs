@@ -1,0 +1,8 @@
+# SQS Configuration
+
+- Created SQS queue
+- Subscribed to SNS topic
+- Configured dead-letter queue
+
+## Purpose
+Buffer and deliver log notifications to Splunk.
