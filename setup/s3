@@ -1,0 +1,7 @@
+# S3 Configuration
+
+- Created S3 bucket for CloudTrail logs
+- Enabled event notifications
+
+## Purpose
+Acts as centralized log storage.
