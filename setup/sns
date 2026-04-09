@@ -1,0 +1,7 @@
+# SNS Configuration
+
+- Created SNS topic
+- Allowed S3 to publish events
+
+## Purpose
+Trigger downstream processing when new logs arrive.
